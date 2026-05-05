@@ -2,25 +2,25 @@
 
 ## Liste
 
-# 1. Enkelhed
+#### 1. Enkelhed
 Markdown bruger meget simple tegn (som #, *, -) til formatering, så det er hurtigt at lære og bruge – også for begyndere.
 
-# 2. Let at læse
+#### 2. Let at læse
 Selv i sin rå form (uden at blive konverteret) er Markdown-tekst overskuelig og nem at forstå.
 
-# 3. Hurtig skrivning
+#### 3. Hurtig skrivning
 Du slipper for at klikke rundt i menuer som i tekstbehandlingsprogrammer – du kan skrive og formatere direkte fra tastaturet.
 
-# 4. Platformuafhængig
+#### 4. Platformuafhængig
 Markdown kan bruges på næsten alle platforme og i mange værktøjer, fx GitHub, Notion og Visual Studio Code.
 
-# 5. Nem konvertering
+#### 5. Nem konvertering
 Markdown kan let omdannes til HTML, PDF eller andre formater, hvilket gør det ideelt til både web og dokumentation.
 
-# 6. God til samarbejde
+#### 6. God til samarbejde
 Det bruges ofte i udvikling og dokumentation, fordi det fungerer godt sammen med versionsstyring (fx Git).
 
-# 7. Færre distraktioner
+#### 7. Færre distraktioner
 Fokus er på indholdet i stedet for layout og design.
 
 ```JS
