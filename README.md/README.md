@@ -41,7 +41,7 @@ for (let i = 0; i < frugter.length; i++) {
 </nav>
 ```
 
-![Det er en dejlig æblekage og lige til at spise](/image/https://imgix.isabellas.dk/media/websites/isabellas-dot-dk/website/kage-og-dessert/kage/aeblekage-med-kanel-p.jpg)
+![Det er en dejlig æblekage og lige til at spise](/https://imgix.isabellas.dk/media/websites/isabellas-dot-dk/website/kage-og-dessert/kage/aeblekage-med-kanel-p.jpg)
 
 ### “Er du nogensinde stoppet op for at tænke – og glemt at starte igen?”
 ##### find mere på (https://woman.dk/livsstil/peter-plys-citater)
